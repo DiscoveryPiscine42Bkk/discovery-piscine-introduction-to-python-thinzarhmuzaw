@@ -1,6 +1,2 @@
-firstname = input("First name pls")
-lastname = input("Last name pls")
-
-fullname = firstname + lastname
-
-print("ur name is" + fullname)
+# print("42\n")
+# print("fk u bitch")

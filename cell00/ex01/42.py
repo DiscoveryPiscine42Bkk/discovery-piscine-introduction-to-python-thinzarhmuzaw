@@ -1,2 +1,1 @@
-# print("42\n")
-# print("fk u bitch")
+print("42\n")
